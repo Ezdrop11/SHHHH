@@ -1,13 +1,1 @@
-BannedIDS = {
-	[443953] = true, -- Diaqon
-	[0] = true, -- New Player here
-
-
-
-
-
-
-
-}
-
-return BannedIDS
+Diaqon
